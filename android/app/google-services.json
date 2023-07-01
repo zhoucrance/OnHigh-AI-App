@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "708598199803",
+    "project_id": "police-69ea0",
+    "storage_bucket": "police-69ea0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708598199803:android:cd1f0ccdaa8413e764875e",
+        "android_client_info": {
+          "package_name": "com.onhigh_ai.onhigh_ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx7U0kdqqCMjR5lRqq5Gwj3yrdc9eWwwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
